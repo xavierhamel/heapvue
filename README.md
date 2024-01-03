@@ -19,7 +19,14 @@ added to those functions. This may not be possible in every scenario and this ap
 be useful in every scenario.
 
 ## Installation
-TODO
+You can build the application with
+```
+cargo build --release
+```
+or run it with
+```
+cargo run --release
+```
 
 ## How to use it
 TODO
